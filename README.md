@@ -1,2 +1,2 @@
 # vercelTest
-Testing purpose
+Testing purpose for vercel deployment
